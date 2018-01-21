@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageSlidshowDemo</string>
+    <string name="slideshow_check">Slideshow check</string>
+    <string name="android_games">Android Games</string>
+</resources>
